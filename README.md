@@ -1,5 +1,7 @@
 # Fractal Generator
 
+## THIS REPOSITORY HAS BEEN MIGRATED TO [FRACTAL-GENERATOR](https://codeberg.org/semuadmin/fractal-generator) AT CODEBERG
+
 Just a bit of fun...
 
 A JavaScript implementation of an interactive fractal generator.  It supports both Mandelbrot and Julia modes and 'Standard', 'Burning Ship' and 'Tricorn' variants using a variety of color rendering themes, including user-generated colour palettes and gradients.
